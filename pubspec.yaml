@@ -1,5 +1,5 @@
 name: get_safe_insets
-description: A new flutter plugin project.
+description: A plugin to get safe insets on Android
 version: 0.0.1
 homepage: https://github.com/lslv1243/get_safe_insets
 
